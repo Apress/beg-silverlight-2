@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\Bin\Debug\Ch4_EventHandlers.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\Bin\Debug\Ch4_EventHandlers.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\Bin\Debug\Ch4_EventHandlers.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\Ch4_EventHandlers.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\Ch4_EventHandlers.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\Ch4_EventHandlers.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_EventHandlers\Ch4_EventHandlers\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Ch8_BlendLayout" EntryPointType="Ch8_BlendLayout.App" RuntimeVersion="2.0.31005.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Ch8_BlendLayout" Source="Ch8_BlendLayout.dll" />
+  </Deployment.Parts>
+</Deployment>

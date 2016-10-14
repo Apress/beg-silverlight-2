@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\Bin\Debug\Ch2_HelloWorld.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\Bin\Debug\Ch2_HelloWorld.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\Bin\Debug\Ch2_HelloWorld.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\Ch2_HelloWorld.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\Ch2_HelloWorld.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\Ch2_HelloWorld.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_HelloWorld\Ch2_HelloWorld\obj\Debug\XapCacheFile.xml

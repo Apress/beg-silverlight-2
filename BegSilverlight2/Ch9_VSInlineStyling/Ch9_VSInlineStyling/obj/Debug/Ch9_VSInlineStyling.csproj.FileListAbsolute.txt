@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\Bin\Debug\Ch9_VSInlineStyling.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\Bin\Debug\Ch9_VSInlineStyling.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\Bin\Debug\Ch9_VSInlineStyling.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\Ch9_VSInlineStyling.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\Ch9_VSInlineStyling.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\Ch9_VSInlineStyling.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch9_VSInlineStyling\Ch9_VSInlineStyling\obj\Debug\XapCacheFile.xml

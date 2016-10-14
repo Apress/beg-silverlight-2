@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Ch4_TextBox" EntryPointType="Ch4_TextBox.App" RuntimeVersion="2.0.30523.6">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Ch4_TextBox" Source="Ch4_TextBox.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch4_CheckBoxRadioButton", "Ch4_CheckBoxRadioButton\Ch4_CheckBoxRadioButton.csproj", "{7F817429-C140-4D1D-B4EC-92402621DEED}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch4_CheckBoxRadioButtonWeb", "Ch4_CheckBoxRadioButtonWeb\", "{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Ch4_CheckBoxRadioButtonWeb"
+		Debug.AspNetCompiler.PhysicalPath = "Ch4_CheckBoxRadioButtonWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch4_CheckBoxRadioButtonWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch4_CheckBoxRadioButtonWeb"
+		Release.AspNetCompiler.PhysicalPath = "Ch4_CheckBoxRadioButtonWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch4_CheckBoxRadioButtonWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50763"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{7F817429-C140-4D1D-B4EC-92402621DEED}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Release|.NET.ActiveCfg = Release|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7F817429-C140-4D1D-B4EC-92402621DEED}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Debug|.NET.Build.0 = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Release|.NET.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Release|.NET.Build.0 = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{B647C7DE-9ADE-4B56-85C9-9DFD3F524824}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

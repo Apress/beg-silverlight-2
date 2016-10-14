@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch11_CoolDownButton", "Ch11_CoolDownButton\Ch11_CoolDownButton.csproj", "{CA561835-A100-42A0-847E-C7BF781BF83E}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch11_CoolDownButton.Web", "Ch11_CoolDownButton.Web\", "{3B22EDF1-FA51-43E5-AA36-8AC5B586F0CB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Ch11_CoolDownButton.Web"
+		Debug.AspNetCompiler.PhysicalPath = "Ch11_CoolDownButton.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch11_CoolDownButton.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch11_CoolDownButton.Web"
+		Release.AspNetCompiler.PhysicalPath = "Ch11_CoolDownButton.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch11_CoolDownButton.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59434"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{CA561835-A100-42A0-847E-C7BF781BF83E}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolDownButton", "CoolDownButton\CoolDownButton.csproj", "{DD28A674-5B5B-4169-9A98-0844818C27FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA561835-A100-42A0-847E-C7BF781BF83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA561835-A100-42A0-847E-C7BF781BF83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA561835-A100-42A0-847E-C7BF781BF83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA561835-A100-42A0-847E-C7BF781BF83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B22EDF1-FA51-43E5-AA36-8AC5B586F0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B22EDF1-FA51-43E5-AA36-8AC5B586F0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B22EDF1-FA51-43E5-AA36-8AC5B586F0CB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B22EDF1-FA51-43E5-AA36-8AC5B586F0CB}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DD28A674-5B5B-4169-9A98-0844818C27FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD28A674-5B5B-4169-9A98-0844818C27FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD28A674-5B5B-4169-9A98-0844818C27FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD28A674-5B5B-4169-9A98-0844818C27FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

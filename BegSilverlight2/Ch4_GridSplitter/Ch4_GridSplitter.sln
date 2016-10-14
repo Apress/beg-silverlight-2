@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch4_GridSplitter", "Ch4_GridSplitter\Ch4_GridSplitter.csproj", "{57F55A52-62CB-4F27-8BC7-1B20CCA92412}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch4_GridSplitter.Web", "Ch4_GridSplitter.Web\", "{3DF4486E-83C7-4F3F-A2A5-A70D7DC49355}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Ch4_GridSplitter.Web"
+		Debug.AspNetCompiler.PhysicalPath = "Ch4_GridSplitter.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch4_GridSplitter.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch4_GridSplitter.Web"
+		Release.AspNetCompiler.PhysicalPath = "Ch4_GridSplitter.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch4_GridSplitter.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50404"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{57F55A52-62CB-4F27-8BC7-1B20CCA92412}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F55A52-62CB-4F27-8BC7-1B20CCA92412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F55A52-62CB-4F27-8BC7-1B20CCA92412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F55A52-62CB-4F27-8BC7-1B20CCA92412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F55A52-62CB-4F27-8BC7-1B20CCA92412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF4486E-83C7-4F3F-A2A5-A70D7DC49355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF4486E-83C7-4F3F-A2A5-A70D7DC49355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF4486E-83C7-4F3F-A2A5-A70D7DC49355}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF4486E-83C7-4F3F-A2A5-A70D7DC49355}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

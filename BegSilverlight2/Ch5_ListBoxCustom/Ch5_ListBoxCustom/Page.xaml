@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Ch5_ListBoxCustom.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+<Grid x:Name="LayoutRoot" Background="White">
+    <ListBox Margin="10" x:Name="list">
+        <ListBox.ItemTemplate>
+            <DataTemplate>
+                <StackPanel Margin="5" Orientation="Horizontal">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <Border 
+                            Margin="2" CornerRadius="4" 
+                            BorderBrush="Black" BorderThickness="2" />
+                        <Rectangle 
+                            Margin="4" Fill="White" Grid.Column="0" Width="20" />
+                        <Border 
+                            Margin="2" CornerRadius="4" BorderBrush="Black" 
+                            BorderThickness="2" Grid.Column="1" />
+                        <Rectangle 
+                            Margin="4" Fill="White" Grid.Column="1" Width="20" />
+                        <TextBlock 
+                            Text="{Binding Card1}" HorizontalAlignment="Center" 
+                            VerticalAlignment="Center" Grid.Column="0" />
+                        <TextBlock 
+                            Text="{Binding Card2}" HorizontalAlignment="Center" 
+                            VerticalAlignment="Center" Grid.Column="1" />
+                    </Grid>
+
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock
+                            Text="{Binding NickName}"
+                            FontSize="16"
+                            FontWeight="Bold" />
+                        <TextBlock 
+                            Text="{Binding Notes}" />
+                    </StackPanel>
+                </StackPanel>
+            </DataTemplate>
+        </ListBox.ItemTemplate>
+    </ListBox>
+</Grid>
+</UserControl>

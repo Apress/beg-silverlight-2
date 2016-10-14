@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\bin\Debug\Ch10_ExampleAnimation.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\bin\Debug\Ch10_ExampleAnimation.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\bin\Debug\Ch10_ExampleAnimation.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\bin\Debug\Default.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\Ch10_ExampleAnimation.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\Ch10_ExampleAnimation.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\Ch10_ExampleAnimation.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ExampleAnimation\Ch10_ExampleAnimation\obj\Debug\XapCacheFile.xml

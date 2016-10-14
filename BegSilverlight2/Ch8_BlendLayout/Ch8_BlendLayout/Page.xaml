@@ -1,0 +1,24 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="Ch8_BlendLayout.Page"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White" ShowGridLines="True">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0.10*"/>
+			<RowDefinition Height="0.8*"/>
+			<RowDefinition Height="0.10*"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="0.25*"/>
+			<ColumnDefinition Width="0.75*"/>
+		</Grid.ColumnDefinitions>
+		<Grid Margin="0,0,0,0" VerticalAlignment="Stretch" Grid.Row="1" x:Name="innerGrid" Grid.Column="1" ShowGridLines="True">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="0.25*"/>
+				<RowDefinition Height="0.75*"/>
+			</Grid.RowDefinitions>
+		</Grid>
+	</Grid>
+</UserControl>

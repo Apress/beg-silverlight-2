@@ -1,0 +1,13 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\Bin\Debug\Ch4_FormControls.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\Bin\Debug\Ch4_FormControls.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\Bin\Debug\Ch4_FormControls.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\EventHandlers.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\Ch4_FormControls.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\Ch4_FormControls.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\Ch4_FormControls.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControls\obj\Debug\XapCacheFile.xml

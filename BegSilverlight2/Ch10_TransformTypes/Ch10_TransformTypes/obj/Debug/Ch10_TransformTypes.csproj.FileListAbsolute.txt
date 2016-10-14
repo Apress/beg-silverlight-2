@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\bin\Debug\Ch10_TransformTypes.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\bin\Debug\Ch10_TransformTypes.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\bin\Debug\Ch10_TransformTypes.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\bin\Debug\Default.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\Ch10_TransformTypes.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\Ch10_TransformTypes.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\Ch10_TransformTypes.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_TransformTypes\Ch10_TransformTypes\obj\Debug\XapCacheFile.xml

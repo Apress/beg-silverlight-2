@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\Ch4_FormControlsWeb.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\Ch4_FormControlsWeb.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\System.Web.Silverlight.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\obj\Debug\Ch4_FormControlsWeb.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_FormControls\Ch4_FormControlsWeb\obj\Debug\Ch4_FormControlsWeb.pdb

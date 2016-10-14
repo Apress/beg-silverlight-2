@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="acdc9507-bee9-427f-8b43-43bca7a1c76b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54650/StartingHandService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StartingHandService.xsd" MetadataType="Schema" ID="512d8556-44d0-4d4c-af6a-14b1078486e3" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?xsd=xsd1" />
+    <MetadataFile FileName="StartingHandService.wsdl" MetadataType="Wsdl" ID="4e735fd2-bc8c-4446-ab85-4590b7a5c5c9" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="StartingHandService1.xsd" MetadataType="Schema" ID="ccdf4895-f707-41af-902b-c158dd9899d3" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?xsd=xsd2" />
+    <MetadataFile FileName="StartingHandService.disco" MetadataType="Disco" ID="1a91e244-1ced-4251-8221-f471c4e3b849" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?disco" />
+    <MetadataFile FileName="StartingHandService1.wsdl" MetadataType="Wsdl" ID="d4723045-3e18-421b-9d85-0b1da9a19e47" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?wsdl" />
+    <MetadataFile FileName="StartingHandService2.xsd" MetadataType="Schema" ID="7cbe3ee5-0e37-452b-9ea3-d9fb5855bd7e" SourceId="1" SourceUrl="http://localhost:54650/StartingHandService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

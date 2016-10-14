@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_StartingHandService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:54650/StartingHandService.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_StartingHandService"
+                contract="StartingHandService.StartingHandService" name="BasicHttpBinding_StartingHandService" />
+        </client>
+    </system.serviceModel>
+</configuration>

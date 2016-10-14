@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Ch6_WCFService.Web.StartingHandService" CodeBehind="StartingHandService.svc.cs" %>

@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\Ch5_ListBoxCustom.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\Bin\Debug\Ch5_ListBoxCustom.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\Bin\Debug\Ch5_ListBoxCustom.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\Bin\Debug\Ch5_ListBoxCustom.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\Ch5_ListBoxCustom.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\Ch5_ListBoxCustom.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch5_ListBoxCustom\Ch5_ListBoxCustom\obj\Debug\XapCacheFile.xml

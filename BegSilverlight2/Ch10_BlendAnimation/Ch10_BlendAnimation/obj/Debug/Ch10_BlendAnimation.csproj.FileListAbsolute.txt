@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\bin\Debug\Ch10_BlendAnimation.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\bin\Debug\Ch10_BlendAnimation.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\bin\Debug\Ch10_BlendAnimation.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\bin\Debug\Default.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\Ch10_BlendAnimation.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\Ch10_BlendAnimation.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\Ch10_BlendAnimation.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_BlendAnimation\Ch10_BlendAnimation\obj\Debug\XapCacheFile.xml

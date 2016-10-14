@@ -1,0 +1,5 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_JavaScriptOverview\Ch2_JavaScriptOverview\bin\Ch2_JavaScriptOverview.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_JavaScriptOverview\Ch2_JavaScriptOverview\bin\Ch2_JavaScriptOverview.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_JavaScriptOverview\Ch2_JavaScriptOverview\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_JavaScriptOverview\Ch2_JavaScriptOverview\obj\Debug\Ch2_JavaScriptOverview.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch2_JavaScriptOverview\Ch2_JavaScriptOverview\obj\Debug\Ch2_JavaScriptOverview.pdb

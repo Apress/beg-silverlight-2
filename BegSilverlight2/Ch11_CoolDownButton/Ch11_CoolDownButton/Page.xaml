@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Ch11_CoolDownButton.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:begSL2="clr-namespace:CoolDownButton;assembly=CoolDownButton"
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <begSL2:CoolDownButtonControl 
+            CoolDownSeconds="3" 
+            Width="150" Height="60" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch5_ListBoxCustom", "Ch5_ListBoxCustom\Ch5_ListBoxCustom.csproj", "{A2DD0194-3A19-4D8A-9985-0211DD7563C6}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch5_ListBoxCustomWeb", "Ch5_ListBoxCustomWeb\", "{2FD5A78F-193B-408B-96F8-128BDC697129}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Ch5_ListBoxCustomWeb"
+		Debug.AspNetCompiler.PhysicalPath = "Ch5_ListBoxCustomWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch5_ListBoxCustomWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch5_ListBoxCustomWeb"
+		Release.AspNetCompiler.PhysicalPath = "Ch5_ListBoxCustomWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch5_ListBoxCustomWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58209"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{A2DD0194-3A19-4D8A-9985-0211DD7563C6}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A2DD0194-3A19-4D8A-9985-0211DD7563C6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Debug|.NET.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Debug|.NET.Build.0 = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Release|.NET.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Release|.NET.Build.0 = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{2FD5A78F-193B-408B-96F8-128BDC697129}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\Ch4_TextBox.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\Bin\Debug\Ch4_TextBox.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\Bin\Debug\Ch4_TextBox.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\Bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\Bin\Debug\Ch4_TextBox.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\Bin\Debug\TestPage.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\Ch4_TextBox.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\Ch4_TextBox.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch4_TextBox\Ch4_TextBox\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,6 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\Bin\Debug\CoolDownButton.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\Bin\Debug\CoolDownButton.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\obj\Debug\CoolDownButton.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\obj\Debug\CoolDownButton.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch11_CoolDownButton\CoolDownButton\obj\Debug\CoolDownButton.pdb

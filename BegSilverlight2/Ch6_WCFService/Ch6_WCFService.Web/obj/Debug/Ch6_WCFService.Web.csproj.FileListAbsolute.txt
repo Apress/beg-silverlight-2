@@ -1,0 +1,14 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\Ch6_WCFService.Web.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\Ch6_WCFService.Web.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\System.Web.Silverlight.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\obj\Debug\Ch6_WCFService.Web.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch6_WCFService\Ch6_WCFService.Web\obj\Debug\Ch6_WCFService.Web.pdb

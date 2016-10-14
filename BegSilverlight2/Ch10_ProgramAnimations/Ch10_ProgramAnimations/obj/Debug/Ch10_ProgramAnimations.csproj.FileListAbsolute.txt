@@ -1,0 +1,12 @@
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\bin\Debug\Ch10_ProgramAnimations.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\bin\Debug\Ch10_ProgramAnimations.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\bin\Debug\AppManifest.xaml
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\bin\Debug\Ch10_ProgramAnimations.xap
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\bin\Debug\Default.html
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\App.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\Page.g.cs
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\Ch10_ProgramAnimations.g.resources
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\Ch10_ProgramAnimations.dll
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\Ch10_ProgramAnimations.pdb
+C:\Users\Bob.MIDDLEEARTH\Projects\BegSilverlight2\Ch10_ProgramAnimations\Ch10_ProgramAnimations\obj\Debug\XapCacheFile.xml

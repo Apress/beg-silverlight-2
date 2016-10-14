@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_CanvasPanel", "Ch3_CanvasPanel\Ch3_CanvasPanel.csproj", "{ED90024D-3600-487C-BD76-0FB5E3672236}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch3_CanvasPanelWeb", "Ch3_CanvasPanelWeb\", "{B50F4999-B04A-4318-8967-EFEB48E5D217}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Ch3_CanvasPanelWeb"
+		Debug.AspNetCompiler.PhysicalPath = "Ch3_CanvasPanelWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch3_CanvasPanelWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch3_CanvasPanelWeb"
+		Release.AspNetCompiler.PhysicalPath = "Ch3_CanvasPanelWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch3_CanvasPanelWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57309"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{ED90024D-3600-487C-BD76-0FB5E3672236}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Release|.NET.ActiveCfg = Release|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{ED90024D-3600-487C-BD76-0FB5E3672236}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Debug|.NET.Build.0 = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Release|.NET.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Release|.NET.Build.0 = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{B50F4999-B04A-4318-8967-EFEB48E5D217}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
